@@ -297,3 +297,25 @@ A calculator project demonstrating programming fundamentals and logical implemen
 <br>
 
 <hr>
+
+<br>
+
+<h2 align="center">💭 DEVELOPER MINDSET</h2>
+
+<p align="center">
+  <i>"Great things are built one line of code at a time."</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LEARN-EXPLORE-BUILD-7028E4?style=for-the-badge" />
+</p>
+
+<br>
+
+<h3 align="center">⚡ Thanks for visiting my profile!</h3>
+
+<p align="center">
+  <i>Let's build something extraordinary.</i>
+</p>
+
+<br>
