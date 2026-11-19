@@ -299,7 +299,7 @@ A calculator project demonstrating programming fundamentals and logical implemen
 
 <br>
 
-<h2 align="center">💭 DEVELOPER MINDSET</h2>
+<h2 align="center"> DEVELOPER MINDSET</h2>
 
 <p align="center">
   <i>"Great things are built one line of code at a time."</i>
