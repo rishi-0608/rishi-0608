@@ -27,3 +27,61 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=rishi-0608&label=PROFILE+VIEWS&color=7028E4&style=for-the-badge" />
 
 </div>
+
+<br>
+
+<h2 align="center">◈ ABOUT ME</h2>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👋 Hey, I'm Rishi!
+
+I'm a **Computer Science Engineering student** at Amrita Vishwa Vidyapeetham, Coimbatore.
+
+I enjoy exploring technology, solving problems, and turning ideas into working projects.
+
+- 🎓 B.Tech Computer Science Engineering
+- 💻 Interested in Software Development
+- 🧠 Practicing Data Structures & Algorithms
+- 🌐 Exploring Web Development
+- 🤖 Exploring AI & Generative AI
+- 🚀 Always learning something new
+
+</td>
+
+<td width="45%" valign="top">
+
+### ⚡ Currently Exploring
+
+| Area | Focus |
+|:---|:---|
+| 🐍 Programming | Python, Java, C |
+| 🧩 Problem Solving | DSA |
+| 🌐 Web | HTML, CSS, JavaScript |
+| 🗄️ Database | MySQL |
+| 🤖 Emerging Tech | AI / GenAI |
+
+<br>
+
+### 🎯 My Philosophy
+
+> Learn continuously.  
+> Build consistently.  
+> Improve every day.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<i>Building skills today, creating possibilities for tomorrow.</i>
+
+</div>
+
+<br>
+<hr>
