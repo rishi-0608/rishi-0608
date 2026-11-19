@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h2 align="center">◈ ABOUT ME</h2>
+<h2 align="center">ABOUT ME</h2>
 
 <table>
 <tr>
