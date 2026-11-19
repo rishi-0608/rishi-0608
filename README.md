@@ -85,3 +85,43 @@ I enjoy exploring technology, solving problems, and turning ideas into working p
 
 <br>
 <hr>
+
+
+<br>
+
+<h2 align="center">⚡ TECH ARSENAL</h2>
+
+<p align="center">
+  <i>Technologies I use, explore and experiment with.</i>
+</p>
+
+<br>
+
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" />
+</p>
+
+<h3 align="center">🌐 Web Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+</p>
+
+<h3 align="center">🛠️ Tools & Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux&theme=dark" />
+</p>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Always_Exploring-New_Technologies-7028E4?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+<br>
+<hr>
