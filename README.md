@@ -291,7 +291,7 @@ A calculator project demonstrating programming fundamentals and logical implemen
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Thanks_for_visiting-7028E4?style=for-the-badge&logo=github&logoColor=white"/>
+ <img src="https://img.shields.io/badge/LEARN%E2%86%92BUILD%E2%86%92REPEAT-∞-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <br>
