@@ -225,3 +225,43 @@ A calculator project demonstrating programming fundamentals and logical implemen
 
 <br>
 <hr>
+
+
+<br>
+
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
+
+<p align="center">
+  <i>My development activity and coding journey.</i>
+</p>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishi-0608&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-0608&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=rishi-0608&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<h3 align="center">📈 Contribution Activity</h3>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishi-0608&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<br>
+<hr>
