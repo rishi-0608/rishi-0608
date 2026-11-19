@@ -265,3 +265,35 @@ A calculator project demonstrating programming fundamentals and logical implemen
 
 <br>
 <hr>
+
+<br>
+
+<h2 align="center">🌐 LET'S CONNECT</h2>
+
+<p align="center">
+  <i>Always open to learning, collaborating and building something meaningful.</i>
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/rishi-0608">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks_for_visiting-7028E4?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<br>
+
+<hr>
