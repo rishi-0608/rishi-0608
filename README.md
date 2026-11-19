@@ -307,7 +307,7 @@ A calculator project demonstrating programming fundamentals and logical implemen
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LEARN-EXPLORE-BUILD-7028E4?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/ALWAYS-EXPLORING-9333EA?style=for-the-badge"/>
 </p>
 
 <br>
