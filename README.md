@@ -125,3 +125,103 @@ I enjoy exploring technology, solving problems, and turning ideas into working p
 
 <br>
 <hr>
+
+<br>
+
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+
+<p align="center">
+  <i>A collection of things I've built, explored and experimented with.</i>
+</p>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🛡️ StreamGuard</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-7028E4?style=flat-square"/>
+</p>
+
+<p align="center">
+A project exploring efficient data streaming and probabilistic data structures.
+</p>
+
+<p align="center">
+<a href="https://github.com/rishi-0608/streamguard">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚗 Companion Ride Sharing</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Development-7028E4?style=flat-square"/>
+</p>
+
+<p align="center">
+A ride-sharing application project focused on connecting people through shared transportation.
+</p>
+
+<p align="center">
+<a href="https://github.com/rishi-0608/companion_ride_sharing">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Mapping Webpage</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Development-0EA5E9?style=flat-square"/>
+</p>
+
+<p align="center">
+A web development project exploring mapping interfaces and webpage design.
+</p>
+
+<p align="center">
+<a href="https://github.com/rishi-0608/mapping_webpage">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧮 Calculator</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Programming-7028E4?style=flat-square"/>
+</p>
+
+<p align="center">
+A calculator project demonstrating programming fundamentals and logical implementation.
+</p>
+
+<p align="center">
+<a href="https://github.com/rishi-0608/calculator">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-38BDF8?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+<hr>
